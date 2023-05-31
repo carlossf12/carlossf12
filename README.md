@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1 align="center">Hi 👋, I'm YouDevs</h1>
+    <h1 align="center">Hi 👋, I'm Carlos</h1>
     <h3 align="center">A passionate fullstack web developer from México. I like React.js.</h3>
 </div>
 ---
@@ -25,8 +25,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
       </div>
 </div>
@@ -35,7 +33,7 @@
 
 ### 📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=carlos&theme=dark&locale=es)](https://git.io/streak-stats)
+[![/carlossf12](http://github-readme-streak-stats.herokuapp.com?user=carlossf12&theme=dark&locale=es)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=carlossf12&show_icons=true&theme=radical)
 
