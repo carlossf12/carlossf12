@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **carlossfl49@gmail.com**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **nest.js**
 
 
 <div align="left">
