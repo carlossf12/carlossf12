@@ -36,6 +36,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=carlossf12)](https://git.io/streak-stats)
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=carlossf12&theme=dark" alt="GitHub Streak" /></a>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=carlossf12&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlossf12&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
