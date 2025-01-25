@@ -34,7 +34,7 @@
 
 ### 📊 My Stats :
 
-[![carlossf12](http://github-readme-streak-stats.herokuapp.com?user=carlossf12&theme=dark&locale=es)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=carlossf12)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=carlossf12&show_icons=true&theme=radical)
 
