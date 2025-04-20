@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1 align="center">Hi 👋, I'm Carlos</h1>
-    <h3 align="center">A passionate fullstack web developer from México. I like React.js.</h3>
+    <h3 align="center">A passionate fullstack web developer.</h3>
 </div>
 
 ### 👨‍💻 About Me :
