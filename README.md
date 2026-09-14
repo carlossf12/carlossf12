@@ -91,10 +91,13 @@ interface.
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=carlossf12&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=carlossf12&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Carlos Flores' GitHub Stats" height="195">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=carlossf12&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages" height="195">
+</p>
 
-![](https://streak-stats.demolab.com/?user=carlossf12&theme=dark&hide_border=true&short_numbers=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=carlossf12&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak">
+</p>
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=carlossf12&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)-->
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=carlossf12&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
