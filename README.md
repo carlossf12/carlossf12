@@ -97,7 +97,7 @@ interface.
 </p>
 
 <p align="center">
-   <img src="https://streak-stats.demolab.com/?user=carlossf12&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak">
+   <!--<img src="https://streak-stats.demolab.com/?user=carlossf12&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak">-->
 </p>
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=carlossf12&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)-->
